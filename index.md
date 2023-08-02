@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# Наши преимущества
+
+*   Увеличение скорости работы компьютера до 70%
+*   Увеличение скорости работы интернета
+*   Очистка жесткого диска
+*   Очистка и исправление реестра
 
 
 ![1](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/Total-PC-Cleaner_5.png)
@@ -9,9 +15,3 @@ layout: default
 ![3](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/maxresdefault.jpg)
 ![4](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/Total-PC-Cleaner_6.png)
 
-# Наши преимущества
-
-*   Увеличение скорости работы компьютера до 70%
-*   Увеличение скорости работы интернета
-*   Очистка жесткого диска
-*   Очистка и исправление реестра
