@@ -4,7 +4,9 @@ layout: default
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# Наши преимущества
+
+*   Увеличение скорости работы компьютера до 70%
+*   Увеличение скорости работы интернета
+*   Очистка жесткого диска
+*   Очистка и исправление реестра
