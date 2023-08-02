@@ -2,7 +2,12 @@
 layout: default
 ---
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+![1](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/Total-PC-Cleaner_5.png)
+![2](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/Total-PC-Cleaner_4.png)
+![3](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/Total-PC-Cleaner_maxresdefault.png)
+![4](https://raw.githubusercontent.com/antaixv/architect/master/assets/images/Total-PC-Cleaner_6.png)
 
 # Наши преимущества
 
